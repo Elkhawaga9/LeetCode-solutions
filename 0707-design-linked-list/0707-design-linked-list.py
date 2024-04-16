@@ -8,6 +8,8 @@ class MyLinkedList:
        self.head = None
        self.sz = 0
     def get(self, index: int) -> int:
+        if index<0 or index>=self.sz:
+            return -1
         idx = 0
         current = self.head
         while current != None and idx!=index:
@@ -22,6 +24,8 @@ class MyLinkedList:
         self.addAtIndex(self.sz,val)
 
     def addAtIndex(self, index: int, val: int) -> None:
+        if index>self.sz:
+            return
         current = self.head
         newNode = ListNode(val)
         if index==0:
@@ -38,6 +42,8 @@ class MyLinkedList:
 
 
     def deleteAtIndex(self, index: int) -> None:
+        if index < 0 or index >= self.sz:
+            return
         if index == 0:
             self.head = self.head.next
         else:
