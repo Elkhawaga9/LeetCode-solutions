@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1873-longest-nice-substring) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -38,3 +39,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Backtracking
+|  |
+| ------- |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
