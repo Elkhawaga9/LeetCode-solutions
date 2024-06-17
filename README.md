@@ -26,6 +26,7 @@
 # Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 # Tree
 |  |
@@ -42,4 +43,5 @@
 # Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0046-permutations) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
