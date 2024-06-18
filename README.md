@@ -45,3 +45,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0046-permutations) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1916-find-center-of-star-graph) |
