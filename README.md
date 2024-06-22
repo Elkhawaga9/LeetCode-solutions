@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1039-find-the-town-judge) |
 | [1873-longest-nice-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1873-longest-nice-substring) |
 # String
 |  |
@@ -29,6 +30,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1039-find-the-town-judge](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1039-find-the-town-judge) |
 | [1418-fair-distribution-of-cookies](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1418-fair-distribution-of-cookies) |
 # Tree
 |  |
@@ -51,6 +53,7 @@
 # Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1916-find-center-of-star-graph) |
 # Dynamic Programming
 |  |
