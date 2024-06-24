@@ -53,6 +53,7 @@
 # Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1916-find-center-of-star-graph) |
 # Dynamic Programming
@@ -63,3 +64,15 @@
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1418-fair-distribution-of-cookies) |
+# Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
+# Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
