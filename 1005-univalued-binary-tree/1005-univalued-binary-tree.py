@@ -7,13 +7,19 @@ from collections import deque
 #         self.right = right
 class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
-        def dfs(node):
-            if node==None:
-                return True
-            if node.val != root.val:
+        q = deque()
+        q.append(root)
+        val = root.val
+        while q:
+            node = q.popleft()
+            if node.val!=val:
                 return False
-            return dfs(node.left) & dfs(node.right)
-        return dfs(root)
+            if node.left:
+                q.append(node.left)
+            if node.right:
+                q.append(node.right)
+        return True
+
 
 
         
