@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 # Backtracking
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 # Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
 # Breadth-First Search
 |  |
