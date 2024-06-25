@@ -55,6 +55,7 @@
 # Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1916-find-center-of-star-graph) |
@@ -70,12 +71,18 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0207-course-schedule](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
 # Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
 # Union Find
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
+# Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0207-course-schedule) |
