@@ -61,6 +61,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1916-find-center-of-star-graph) |
 # Dynamic Programming
@@ -77,6 +78,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1005-univalued-binary-tree) |
 # Breadth-First Search
 |  |
@@ -84,6 +86,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0801-is-graph-bipartite) |
+| [0871-keys-and-rooms](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1005-univalued-binary-tree) |
 # Union Find
 |  |
