@@ -108,13 +108,24 @@
 ## Array
 |  |
 | ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
 | ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## Depth-First Search
+|  |
+| ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
