@@ -108,12 +108,14 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
@@ -121,17 +123,20 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Hash Table
 |  |
