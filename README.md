@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -183,4 +184,8 @@
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
+## Math
+|  |
+| ------- |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
