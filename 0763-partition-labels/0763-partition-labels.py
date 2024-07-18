@@ -16,4 +16,4 @@ class Solution:
                 ans.append(sz)
                 sz = 0
         return ans
-        
+         
