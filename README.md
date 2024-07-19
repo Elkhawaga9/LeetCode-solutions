@@ -164,6 +164,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Heap (Priority Queue)
@@ -187,5 +188,6 @@
 ## Math
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
