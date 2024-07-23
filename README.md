@@ -116,6 +116,7 @@
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
+| [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Divide and Conquer
 |  |
