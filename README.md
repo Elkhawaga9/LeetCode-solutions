@@ -121,6 +121,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,4 +209,12 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0055-jump-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
+## Simulation
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
