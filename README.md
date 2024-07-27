@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
+| [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0134-gas-station) |
+| [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -202,6 +206,7 @@
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
+| [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 ## Math
 |  |
 | ------- |
@@ -224,4 +229,8 @@
 |  |
 | ------- |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
