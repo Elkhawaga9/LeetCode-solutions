@@ -41,6 +41,6 @@ class Solution:
                 if l <= r:
                     heappush(rightheap, costs[r])
                     r -= 1
-            k -= 1
+            k -=  1
 
         return ans
