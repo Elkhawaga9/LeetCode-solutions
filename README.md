@@ -213,6 +213,7 @@
 | ------- |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
+| [1250-longest-common-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [0055-jump-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
