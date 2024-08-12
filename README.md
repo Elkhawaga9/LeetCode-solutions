@@ -220,6 +220,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -274,4 +276,8 @@
 | [0070-climbing-stairs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
