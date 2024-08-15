@@ -126,6 +126,7 @@
 | [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2262-solving-questions-with-brainpower](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Breadth-First Search
@@ -246,6 +247,7 @@
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Two Pointers
 |  |
 | ------- |
