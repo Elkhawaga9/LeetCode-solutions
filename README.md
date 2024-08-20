@@ -224,6 +224,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -240,6 +241,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
@@ -258,6 +260,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
