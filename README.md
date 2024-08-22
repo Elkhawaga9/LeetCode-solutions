@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -248,6 +249,7 @@
 | [0063-unique-paths-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
