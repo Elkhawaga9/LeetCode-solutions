@@ -112,6 +112,7 @@
 | [0063-unique-paths-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0213-house-robber-ii) |
@@ -185,6 +186,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -227,6 +230,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
+| [0179-largest-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0179-largest-number) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
