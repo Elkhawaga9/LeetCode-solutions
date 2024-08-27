@@ -125,6 +125,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -270,6 +271,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0815-champagne-tower](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0815-champagne-tower) |
 | [0967-minimum-falling-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
@@ -324,4 +326,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
