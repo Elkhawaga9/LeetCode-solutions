@@ -131,6 +131,7 @@
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1762-furthest-building-you-can-reach](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
@@ -213,6 +214,7 @@
 | [0179-largest-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1762-furthest-building-you-can-reach](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -223,6 +225,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
+| [1762-furthest-building-you-can-reach](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
