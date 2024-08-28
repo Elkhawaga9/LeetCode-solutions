@@ -298,6 +298,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0476-number-complement) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 ## Counting
