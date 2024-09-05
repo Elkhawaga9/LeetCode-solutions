@@ -132,6 +132,7 @@
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1762-furthest-building-you-can-reach](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -255,6 +257,7 @@
 | [0647-palindromic-substrings](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
@@ -326,6 +329,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
