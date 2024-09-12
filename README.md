@@ -150,6 +150,7 @@
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -177,6 +178,7 @@
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0437-path-sum-iii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0437-path-sum-iii) |
+| [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Hash Table
@@ -328,6 +331,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
