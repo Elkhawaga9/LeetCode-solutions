@@ -1,36 +1,29 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        root=[i for i in range(len(isConnected))]
-        sz=[1 for _ in range(len(isConnected))]
-
-        def find(x):
-            if x == root[x]:
-                return x
-
-            root[x]=find(root[x])
-            return root[x]
-
-        def union(x,y):
-            rootX=find(x)
-            rootY=find(y)
-
-            if rootX != rootY:
-                if sz[rootX]>sz[rootY]:
-                    root[rootY] = rootX
-                    sz[rootX] += sz[rootY]
-                else:
-                    root[rootX] = rootY
-                    sz[rootY] += sz[rootY]
-
-        for i in range(len(isConnected)):
-            for j in range(len(isConnected[0])):
-                if i == j or isConnected[i][j] == 0:
-                    continue
-                union(i,j)
-        st=set()
-        for val in root:
-            st.add(find(val))
-
-        return len(st)
+        n = len(isConnected)
+        parent = [i for i in range(n+1)]
+        sz = [1]*(n+1)
+        def find(node):
+            if node == parent[node]:
+                return node
+            return find(parent[node])
+        def union(u,v):
+            par1,par2 = find(u),find(v)
+            if par1==par2:
+                return 
+            if sz[par2]>sz[par1]:
+                par1,par2 = par2,par1
+            parent[par2] = par1
+            sz[par1]+=sz[par2]
+        for i in range(n):
+            for j in range(n):
+                if isConnected[i][j]==1:
+                    union(i,j)
+        ans= 0
+        for i in range(n):
+            if parent[i]==i:
+                ans+=1
+        return ans
+        
 
         
