@@ -161,6 +161,7 @@
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Hash Table
 |  |
 | ------- |
@@ -340,6 +343,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2206-detonate-the-maximum-bombs) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
