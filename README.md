@@ -144,6 +144,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +315,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Simulation
 |  |
 | ------- |
