@@ -132,6 +132,7 @@
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0999-regions-cut-by-slashes](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1762-furthest-building-you-can-reach](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
@@ -156,6 +157,7 @@
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
+| [0999-regions-cut-by-slashes](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -172,6 +174,7 @@
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0999-regions-cut-by-slashes](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -184,6 +187,7 @@
 | [0547-number-of-provinces](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -195,6 +199,7 @@
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0999-regions-cut-by-slashes](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -204,6 +209,7 @@
 | [0268-missing-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0778-reorganize-string) |
+| [0999-regions-cut-by-slashes](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
