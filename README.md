@@ -281,6 +281,7 @@
 | [0062-unique-paths](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0650-2-keys-keyboard](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -308,6 +309,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0815-champagne-tower](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0815-champagne-tower) |
 | [0967-minimum-falling-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0967-minimum-falling-path-sum) |
