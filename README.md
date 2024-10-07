@@ -153,6 +153,7 @@
 | [0210-course-schedule-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0753-open-the-lock](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
@@ -185,6 +186,7 @@
 | [0210-course-schedule-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0437-path-sum-iii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0437-path-sum-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0437-path-sum-iii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
