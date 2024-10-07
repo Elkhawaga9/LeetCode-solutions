@@ -111,6 +111,7 @@
 | [0055-jump-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0134-gas-station) |
 | [0174-dungeon-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0174-dungeon-game) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -381,6 +383,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Indexed Tree
