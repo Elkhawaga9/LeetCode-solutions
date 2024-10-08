@@ -291,6 +291,7 @@
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [2050-count-good-numbers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2050-count-good-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -370,6 +371,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
