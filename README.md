@@ -226,6 +226,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0268-missing-number) |
@@ -268,6 +269,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -411,4 +414,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Elkhawaga9/LeetCode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
