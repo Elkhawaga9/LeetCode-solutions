@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
 
-SELECT MAX(Salary) AS SecondHighestSalary
-FROM Employee
-WHERE Salary < (SELECT distinct MAX(Salary) FROM Employee);
+select distinct Max(salary) as SecondHighestSalary from Employee
+where salary < (select Max(salary) from Employee);
